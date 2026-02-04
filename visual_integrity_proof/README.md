@@ -13,6 +13,7 @@ To ensure maximum scientific integrity and prevent "AI Hallucinations," all visu
 
 ## Directory Contents
 
+- `agentic_visual_manifest_2026.md`: **Master Manifest** documenting the exact AI prompts used for high-fidelity rendering.
 - `plotting_main_figures.py`: The master script for generating Figures 1, 2, 4, and 5 (Standard Academic version).
 - `plotting_premium_figures.py`: The **Agentic Aesthetics** script which generates high-fidelity versions of Fig 4C and 5A using the BioNexus Premium Design System.
 - `bionexus_styling.py`: The modular styling engine that implements 'Nature-level' aesthetics via code.
