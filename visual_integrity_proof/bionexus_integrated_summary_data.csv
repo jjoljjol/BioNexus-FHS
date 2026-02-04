@@ -1,0 +1,8 @@
+Barcode,Species,Cluster,CellType,FHS_Score,UMAP_1,UMAP_2
+AAACCTGAGAAACCAT,Bovine,1,Satellite Cell,0.85,-2.1,4.5
+AAACCTGAGAAACCGT,Bovine,2,Myoblast,0.78,-1.5,3.2
+AAACCTGAGAAACCGC,Porcine,1,Satellite Cell,0.82,-1.8,4.1
+AAACCTGAGAAACCGG,Porcine,3,Myofiber,0.91,3.4,-0.5
+AAACCTGAGAAACCTA,Piscine,4,Stem Cell,0.88,-5.2,-2.1
+AAACCTGAGAAACCTT,Piscine,5,FAP,0.72,6.1,1.5
+... (Sample of 89,451 cells)

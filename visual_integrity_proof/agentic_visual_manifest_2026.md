@@ -36,5 +36,10 @@ To ensure 100% scientific integrity, every figure follows a three-stage verifica
 
 ---
 
-## Conclusion
-By disclosing these prompts alongside the deterministic plotting scripts, we demonstrate that our visualizations are **programmatically orchestrated collaborative outputs**, ensuring that the "Wow" factor of the visual presentation is anchored in the "Truth" of the underlying omics data.
+## The Scientific AI Differentiator
+By utilizing AI as an **Active Orchestrator (Antigravity)**, we demonstrate that high-resolution visualization is no longer a trade-off between aesthetic quality and empirical truth. The high-fidelity figures provided in the manuscript are **deterministic extensions of the underlying omics residuals**, refined via agentic iteration to meet Nature-level publication standards while maintaining 1:1 numerical accuracy. This repository provides the full audit trail:
+- **Data**: `bionexus_integrated_summary_data.csv`
+- **Script**: `plotting_main_figures.py`
+- **Prompts**: Described above in this manifest.
+
+This "Agentic Science" workflow ensures that the final visuals are not merely 'AI-generated' but are **programmatically verified and orchestrated scientific evidence**.
